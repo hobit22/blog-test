@@ -1,4 +1,8 @@
 <!-- markdownlint-disable-next-line -->
+```
+jekyll serve
+```
+
 <div align="center">
 
   <!-- markdownlint-disable-next-line -->
